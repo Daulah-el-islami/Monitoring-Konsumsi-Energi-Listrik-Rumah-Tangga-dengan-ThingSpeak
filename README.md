@@ -4,9 +4,7 @@ Judul Proyek Akhir: Monitoring Konsumsi Energi Listrik Rumah Tangga dengan Thing
 Mata Kuliah: Sistem Mikrokontroler<br/>
 Kelas: TIF RM 22 CNS – Departemen Informatika, Universitas Teknologi Bandung<br/>
 Dosen Pengampu: Muchamad Rusdan, S.T., M.T.<br/>
-
-Dibuat Oleh<br/>
-* Daulah El Islami (22552011256)<br/>
+Nama: Daulah El Islami (22552011256)<br/>
 
 
 Penjelasan Proyek:<br/>
